@@ -1,0 +1,1 @@
+import{_ as o,z as s,A as t,y as n}from"./DHRj9RzY.js";const a={};function r(c,e){return n(),s("section",null,[...e[0]||(e[0]=[t("h2",null,"About Us",-1),t("p",null,"This is the about page.",-1)])])}const u=o(a,[["render",r]]);export{u as default};
